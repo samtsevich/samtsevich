@@ -56,7 +56,7 @@ Python · Rust · Bash · C · C++ · Docker · Git · Linux · Pandas · Tensor
 
 ### 📊 GitHub stats
 
-Сервис статистики временно недоступен. Обновлю, когда оживёт.
+Stats service temporarily unavailable. Will update when it's back.
 
 
 ---
