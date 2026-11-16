@@ -56,10 +56,8 @@ Python · Rust · Bash · C · C++ · Docker · Git · Linux · Pandas · Tensor
 
 ### 📊 GitHub stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samtsevich&show_icons=true&locale=en&count_private=true&theme=default" alt="samtsevich" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samtsevich&show_icons=true&locale=en&layout=compact&count_private=true&theme=default" alt="samtsevich" />
-</p>
+Сервис статистики временно недоступен. Обновлю, когда оживёт.
+
 
 ---
 
