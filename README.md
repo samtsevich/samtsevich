@@ -44,7 +44,7 @@ Python · Rust · Bash · C · C++ · Docker · Git · Linux · Pandas · Tensor
   <a href="https://www.w3schools.com/cpp/"><img src="https://cdn.simpleicons.org/cplusplus" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker" alt="docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git" alt="git" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-plain.svg" alt="illustrator" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://cdn.simpleicons.org/adobeillustrator/ffffff" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux" alt="linux" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas" alt="pandas" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow" width="40" height="40"/></a>
